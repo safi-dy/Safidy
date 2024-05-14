@@ -1,6 +1,6 @@
 Hi 👋 My name is Safidy!
 ========================
-
+A young developer!
 * ✉️  You can contact me at [bisafidy@gmail.com](mailto:bisafidy@gmail.com )
 * 🧠  I'm learning React native.
 
