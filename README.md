@@ -1,6 +1,11 @@
 Hi 👋 My name is Safidy!
 ========================
-A young developer!
+
+A young developer
+-----------------
+
+I am a second year student at ISPM at , a motivated young girl and eager to learn.
+
 * ✉️  You can contact me at [bisafidy@gmail.com](mailto:bisafidy@gmail.com )
 * 🧠  I'm learning React native.
 
